@@ -1,0 +1,7 @@
+.DS_Store
+.tmp.xml
+/draft-*.nits
+/draft-*.txt
+/draft-*.html
+/draft-*.xml
+deploy_key
