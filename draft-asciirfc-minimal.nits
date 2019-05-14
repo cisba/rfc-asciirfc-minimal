@@ -1,0 +1,42 @@
+idnits 2.16.02 
+
+draft-asciirfc-minimal-03.txt:
+draft-asciirfc-minimal-03.txt(175): Code start at 175:    Code snippets should be wrapped with "<CODE BEGINS>" and "<CODE.
+draft-asciirfc-minimal-03.txt(268): Code start at 268:    <CODE BEGINS>.
+draft-asciirfc-minimal-03.txt(276): Code end at 276:    <CODE ENDS>.
+
+  Checking boilerplate required by RFC 5378 and the IETF Trust (see
+  https://trustee.ietf.org/license-info):
+  ----------------------------------------------------------------------------
+
+     No issues found here.
+
+  Checking nits according to https://www.ietf.org/id-info/1id-guidelines.txt:
+  ----------------------------------------------------------------------------
+
+     No issues found here.
+
+  Checking nits according to https://www.ietf.org/id-info/checklist :
+  ----------------------------------------------------------------------------
+
+     No issues found here.
+
+  Miscellaneous warnings:
+  ----------------------------------------------------------------------------
+
+  == The copyright year in the IETF Trust and authors Copyright Line does not
+     match the current year
+
+  -- The document date (December 12, 2018) is 153 days in the past.  Is this
+     intentional?
+
+
+  Checking references for intended status: Informational
+  ----------------------------------------------------------------------------
+
+  == Unused Reference: 'RFC5378' is defined on line 212, but no explicit
+     reference was found in the text
+     '[RFC5378]  Bradner, S., Ed. and J. Contreras, Ed., "Rights Contribut...'
+
+
+     Summary: 0 errors (**), 0 flaws (~~), 2 warnings (==), 1 comment (--).
